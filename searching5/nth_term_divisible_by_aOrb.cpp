@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/nth-magical-number/
+//https://www.geeksforgeeks.org/find-the-nth-term-divisible-by-a-or-b-or-c/
 class Solution {
 public:
 
